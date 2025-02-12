@@ -127,4 +127,4 @@ attempt_download_with_retries
 
 check_and_restart_services
 
-echo "PVE done."
+echo "agent api done , ssh done , restart pveproxy done, restart pvedaemon done ."
